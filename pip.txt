@@ -1,0 +1,9 @@
+pip install pandas -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+
+目前国内靠谱的 pip 镜像源有：
+
+清华: https://pypi.tuna.tsinghua.edu.cn/simple
+
+豆瓣: http://pypi.douban.com/simple/
+
+阿里: http://mirrors.aliyun.com/pypi/simple/
